@@ -1,32 +1,4 @@
-<!-- ============================== BANNER ============================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:0072FF,100:00C6FF&height=220&section=header&text=Hafiz%20Muhammad%20Rizwan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20%26%20Automation%20%E2%80%A2%203x%20AWS%20Certified&descAlignY=58&descSize=18" />
-</p>
-
-<p align="center">
-  <a href="https://hafizmuhammadrizwan.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=760&lines=Terraform+%E2%80%A2+ECS+Fargate+%E2%80%A2+GitLab+CI%2FCD;Cut+AWS+costs+by+40%25+with+VPC+endpoints;AWS+Certified+Cloud+%26+AI+Practitioner;Also+building+with+Flutter+%26+Spring+Boot" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/hafiz-muhammad-rizwanrizwan-33328a374" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hafizmuhammadrizwan359@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://hafizmuhammadrizwan.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Serverless-232F3E?style=for-the-badge&logo=awslambda&logoColor=FF9900" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hafiz-Muhammad-Rizwan&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Hafiz-Muhammad-Rizwan?style=for-the-badge&logo=github&color=0072FF" alt="followers" />
-</p>
-
+<!-- ============================== BANNER ============================== --> <p align="center"> <img src="./banner.svg" /> </p> <p align="center"> <a href="https://hafizmuhammadrizwan.me"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=760&lines=Terraform+%E2%80%A2+ECS+Fargate+%E2%80%A2+GitLab+CI%2FCD;Cut+AWS+costs+by+40%25+with+VPC+endpoints;AWS+Certified+Cloud+%26+AI+Practitioner;Also+building+with+Flutter+%26+Spring+Boot" alt="Typing SVG" /> </a> </p> <p align="center"> <a href="https://linkedin.com/in/hafiz-muhammad-rizwanrizwan-33328a374" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:hafizmuhammadrizwan359@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://hafizmuhammadrizwan.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p> <p align="center"> <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/Serverless-232F3E?style=for-the-badge&logo=awslambda&logoColor=FF9900" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Hafiz-Muhammad-Rizwan&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="profile views" /> <img src="https://img.shields.io/github/followers/Hafiz-Muhammad-Rizwan?style=for-the-badge&logo=github&color=0072FF" alt="followers" /> </p>
 ---
 
 ## 👨‍💻 About Me
